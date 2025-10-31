@@ -12,3 +12,5 @@ for ( let item of array ) {
 console.log(duplicateArray);
 
 // edited from dev branch.
+
+// edited from feature/change branch.
